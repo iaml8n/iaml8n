@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iaml8n
 - 👀 I’m interested in Generative AI apps
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on AI developers
 - 📫 How to reach me DM here
 - 😄 Pronouns: N/A
