@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on AI developers
 - 📫 How to reach me DM here
-- 😄 Pronouns: N/A
 - ⚡ Fun fact: too many to mention
 
 <!---
